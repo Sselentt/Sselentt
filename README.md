@@ -13,7 +13,9 @@
   🌱 I’m currently learning <b>Software Development</b><br>
   📫 How to reach me: <b>sselentt23@gmail.com</b>
 </p>
-
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Sselentt&label=Profile%20views&color=0e75b6&style=flat" alt="selentopaloglu" />
+</p>
 <h3 align="center">Connect with me:</h3>
 <p align="center">
   <a href="https://linkedin.com/in/selen-topaloğlu-a1484a207" target="blank">
